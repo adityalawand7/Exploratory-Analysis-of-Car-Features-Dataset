@@ -1,3 +1,5 @@
 # Exploratory-Analysis-of-Car-Features-Dataset
-In this, I performed EDA (Exploratory Data Analysis) on 'data.csv' which contains data about cars and related features like engine fuel type, transmission type, number of doors, etc.
-After dealing with NaN data, I performed visualization for analysing the data.
+In this project, I have performed EDA on automobile features dataset. The objective of this was to find the possible predictor variables of price of a car.
+The detailed explanation about each step is given in the Jupyter Notebook.
+<br>
+I have also attached the data used.
